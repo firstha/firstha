@@ -52,14 +52,10 @@ Currently building small things that hopefully matter.
   <a href="https://instagram.com/fsthns_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://tiktok.com/@fsthns_"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
   <a href="https://linkedin.com/in/fristha-noventia-6b4975372/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://firsthanoven.vercel.app/"><img src="https://img.shields.io/badge/_Portfolio-Kunjungi-0366d6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://firsthanoven.vercel.app/"><img src="https://img.shields.io/badge/_Portfolio-0366d6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:fristhanoven@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=firstha&label=Profile%20Views&color=0366d6&style=flat-square" alt="Profile Views" />
-</p>
 
 <p align="center"><i>Made with ☕ and a little bit of ✨magic✨</i></p>
