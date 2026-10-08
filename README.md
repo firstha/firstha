@@ -1,6 +1,8 @@
-<h3>Hey, I'm Firstha 👋</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Firstha+%F0%9F%91%8B;Welcome+to+my+GitHub!;Nice+to+meet+you+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-<p>
+<p align="center">
 Just a regular person who got curious about how the internet works,<br/>
 then fell in love with code.<br/>
 Currently building small things that hopefully matter.
