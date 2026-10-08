@@ -16,8 +16,11 @@ Currently building small things that hopefully matter.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -26,7 +29,7 @@ Currently building small things that hopefully matter.
 
 ---
 
-<h3>📊 Behind The Numbers</h3>
+<h3>Behind The Numbers</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=firstha&show_icons=true&hide_border=true&count_private=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
@@ -35,15 +38,27 @@ Currently building small things that hopefully matter.
 
 ---
 
-<h3>💬 Let's Talk</h3>
+<h3>💭 A Quote I Live By</h3>
 
-<p>
-  <a href="https://instagram.com/username_kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://tiktok.com/@username_kamu"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username_kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
 </p>
 
 ---
+
+<h3>Let's Talk</h3>
+
+<p>
+  <a href="https://instagram.com/fsthns_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@fsthns_"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fristha-noventia-6b4975372/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fristhanoven@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=firstha&label=Profile%20Views&color=0366d6&style=flat-square" alt="Profile Views" />
+</p>
 
 <p align="center"><i>Made with ☕ and a little bit of ✨magic✨</i></p>
