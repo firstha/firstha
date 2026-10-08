@@ -1,75 +1,143 @@
-<!-- Header dengan Efek Mengetik Otomatis -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    AURORA GLASSMORPHISM THEME              -->
+<!--                    Designed for: Firstha                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- 🌊 ANIMATED AURORA WAVE BANNER ATAS -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Firstha+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;I+build+cool+things+with+code.;Always+learning+something+new." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24,30&height=250&section=header&text=Hello%20World,%20I'm%20Firstha&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" />
+</div>
+
+<!-- ⌨️ TYPING ANIMATION -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Welcome+to+my+digital+space+%E2%9C%A8;Crafting+code+with+passion+%F0%9F%92%96;Turning+coffee+into+reality+%E2%98%95;Let's+build+something+amazing!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
-<!-- Banner Estetik (Ganti link di bawah dengan gambar favoritmu) -->
+<!-- 👋 GREETING SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=Firstha%20Dev&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+  <h2>✨ Hey there, I'm <strong>Firstha</strong> ✨</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
 </div>
 
-<!-- Sedikit Perkenalan dengan Emoji Minimalis -->
-<h3 align="center">🚀 A passionate developer exploring the digital world 🚀</h3>
+<p align="center">
+  <em>Seorang developer yang percaya bahwa <strong>kode yang baik</strong> adalah <strong>puisi yang bisa dijalankan</strong> 🌸</em>
+</p>
 
 <br/>
 
-<!-- Bagian About Me dengan Gaya List yang Rapi -->
-<h2>💫 About Me</h2>
+<!-- 💫 ABOUT ME - CARD STYLE -->
+<h2 align="center">🌸 About Me</h2>
 
-- 🔭 &nbsp;Saat ini sedang mengerjakan **Project Rahasia** (soon to be revealed!)
-- 🌱 &nbsp;Sedang mendalami **Web Development, UI/UX, dan Cloud Computing**
-- 👯 &nbsp;Terbuka untuk kolaborasi di **Open Source Project**
-- 💬 &nbsp;Tanya saya tentang **Coding, Teknologi, atau Rekomendasi Lagu**
-- ⚡ &nbsp;Fun fact: **Kopi adalah bahan bakar utama saya ☕**
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Currently</h4>
+      <ul>
+        <li>🔭 Building <strong>cool side projects</strong></li>
+        <li>🌱 Learning <strong>Web Dev & Cloud</strong></li>
+        <li>🎨 Exploring <strong>UI/UX Design</strong></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💫 Fun Facts</h4>
+      <ul>
+        <li>☕ Coffee is my <strong>compiler fuel</strong></li>
+        <li>🎵 Coding + Lo-fi music = <strong>perfection</strong></li>
+        <li>🌙 Night owl <strong>developer</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Bagian Tech Stack dengan Gaya Baru (Bukan badge kotak-kotak) -->
-<h2>🛠️ My Tech Stack</h2>
+<!-- 🛠️ TECH STACK - SKILL ICONS 3D -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
-  <!-- Ini menggunakan icon SVG yang lebih modern dan minimalis -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php,mysql,git,github,vscode,figma,aws,linux&theme=dark" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php,mysql,git,github,vscode,figma,linux,aws,nodejs,react&theme=dark&perline=8" alt="Tech Stack" />
 </div>
 
 <br/>
 
-<!-- Bagian Sosial Media dengan Icon Bulat Modern -->
-<h2>🌐 Connect with Me</h2>
+<!-- 📊 GITHUB STATS - AURORA STYLE -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firstha&show_icons=true&theme=radical&hide_border=true&bg_color=30,0F0C29,302B63,24243E&title_color=FF6EC7&icon_color=00DBDE&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=firstha&theme=radical&hide_border=true&background=30,0F0C29,302B63,24243E&ring=FF6EC7&fire=00DBDE&currStreakLabel=FF6EC7&sideLabels=FFFFFF&dates=FFFFFF&border_radius=15" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firstha&layout=donut&theme=radical&hide_border=true&bg_color=30,0F0C29,302B63,24243E&title_color=FF6EC7&text_color=FFFFFF&border_radius=15&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- 🏆 TROPHY SECTION -->
+<h2 align="center">🏆 Trophy Case</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=firstha&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+<br/>
+
+<!-- 📈 ACTIVITY GRAPH - AURORA WAVE -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firstha&bg_color=0F0C29&color=FF6EC7&line=00DBDE&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Journey&radius=15" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- 💬 QUOTE SECTION -->
+<h2 align="center">💭 Daily Reminder</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+<!-- 🌐 SOCIAL MEDIA - GLASS STYLE -->
+<h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
   <a href="https://instagram.com/username_ig_kamu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A1B27" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://tiktok.com/@username_tiktok_kamu" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1A1B27" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/username_linkedin_kamu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:emailkamu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
 <br/>
 
-<h2>📊 GitHub Analytics</h2>
-
+<!-- 👀 PROFILE VIEWS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firstha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Firstha's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firstha&theme=github_dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="Firstha's GitHub Streak" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firstha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=firstha&label=Profile%20Views&color=FF6EC7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/firstha?label=Followers&style=for-the-badge&color=00DBDE&labelColor=0F0C29" alt="Followers" />
 </div>
 
 <br/>
 
-<!-- Bagian Ucapan Terima Kasih -->
+<!-- 🌊 ANIMATED AURORA WAVE BANNER BAWAH -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24,30&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
 </div>
